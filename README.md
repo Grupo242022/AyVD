@@ -19,3 +19,5 @@ En este repositorio se encuentran las entregas con resultados correspondientes a
    - [x] matplotlib
    - [x] pandas
    - [x] seaborn
+   - [x] scipy
+   - [X] statsmodels.stats.power
